@@ -1,2 +1,2 @@
-"THis is GIT!!!" 
+"This is GIT!" 
 "Nick GIT Training" 
