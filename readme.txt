@@ -1,1 +1,1 @@
-"THis is GIT!!!" 
+"This is GIT!" 
